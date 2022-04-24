@@ -1,7 +1,9 @@
 ### Hi there 👋
-Here are some of my favorite projects!
-Calculator: https://ihascats.github.io/odin-calculator/
-Tic-Tac-Toe: https://ihascats.github.io/odin-tic_tac_toe/
+#### Here are some of my favorite projects!
+
+`Calculator` https://ihascats.github.io/odin-calculator/
+
+`Tic-Tac-Toe` https://ihascats.github.io/odin-tic_tac_toe/
 
 <!--
 **ihascats/ihascats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
