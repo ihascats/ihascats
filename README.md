@@ -5,7 +5,7 @@
 
 `Tic-Tac-Toe` https://ihascats.github.io/odin-tic_tac_toe/
 
-###### I am currently learning webpacks!
+###### I am currently working on a TODO List project!
 
 <!--
 **ihascats/ihascats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
