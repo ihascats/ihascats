@@ -5,7 +5,7 @@
 
 `Tic-Tac-Toe` https://ihascats.github.io/odin-tic_tac_toe/
 
-###### I am currently working on a TODO List project!
+`To Do` https://ihascats.github.io/odin-to_do_v2/
 
 <!--
 **ihascats/ihascats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
