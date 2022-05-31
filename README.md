@@ -7,6 +7,8 @@
 
 `To Do` https://ihascats.github.io/odin-to_do_v2/
 
+`Weather app` https://ihascats.github.io/weather-app/
+
 <!--
 **ihascats/ihascats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
