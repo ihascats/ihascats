@@ -9,6 +9,8 @@
 
 `Weather app` https://ihascats.github.io/weather-app/
 
+`Battleship game` https://ihascats.github.io/battleship/
+
 <!--
 **ihascats/ihascats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
