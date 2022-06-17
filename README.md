@@ -13,6 +13,8 @@
 
 ##### Learning React!
 
+###### Shopping cart is going to be the next project!
+
 <!--
 **ihascats/ihascats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
