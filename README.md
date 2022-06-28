@@ -11,7 +11,7 @@
 
 `Battleship game` https://ihascats.github.io/battleship/
 
-##### Learning React!
+##### Learning Firebase!
 
 ###### Shopping cart is going to be the next project!
 
